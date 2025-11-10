@@ -1,7 +1,7 @@
 # Deployment Information
 pods_status:
-  main_pods_running: #TODO: Enter number of main pods running
-  canary_pods_running: #TODO: Enter number of canary pods running
+  main_pods_running: 4
+  canary_pods_running: 1
 
 # Service Information
 service_endpoints:
