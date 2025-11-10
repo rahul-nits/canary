@@ -95,7 +95,7 @@ canary-demo/
 1. **Access Grafana**
    - URL: http://localhost:3000
    - Username: admin
-   - Password: prom-operator
+   - Password: get secret from kubectl get secret command and decode it using base64 -d 
 
 2. **Key Metrics**
    - Request rate by version:
